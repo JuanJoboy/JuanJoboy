@@ -7,13 +7,13 @@
 ###
 
 <p align="left">
-I'm <b>Juan Joboy</b>, a passionate Software Engineering student at <b>Curtin University</b>. I'm driven by curiosity, creativity, and my love for building interactive and entertaining software.
+I'm Juan Joboy, a passionate Software Engineering student at Curtin University. I'm driven by curiosity, creativity, and my love for building interactive and entertaining software.
 </p>
 
 <p align="left">
-- 🔧 Currently working as an <b>IT Support Officer</b> at Curtin University<br>
-- 🎮 I love developing <b>games</b>, <b>mods</b> and apps in my spare time<br>
-- 📘 Currently Learning: SQL, Flutter, C# & Unity<br>
+- 🔧 Currently working as an <b>IT Support Officer</b> at <b>Curtin University</b><br>
+- 🎮 I love developing <b>games</b>, <b>mods</b> and <b>apps</b> in my spare time<br>
+- 📘 Currently Learning: <b>SQL</b>, <b>Flutter</b>, <b>C#</b> & <b>Unity</b><br>
 </p>
 
 ---
@@ -23,8 +23,8 @@ I'm <b>Juan Joboy</b>, a passionate Software Engineering student at <b>Curtin Un
 <p align="left">Here are some of the projects I'm passionate about:</p>
 
 <ul align="left">
-  <li><b>Vaultaria</b> – A <b>Terraria mod</b> written in C#, designed to emulate and integrate mechanics and items inspired by the Borderlands series.</li>
-  <li><b>Food Files</b> – A <b>cross-platform mobile app</b> built with Flutter that enables users to catalog and post meals with images and custom descriptions</li>
+  <li><b>Vaultaria</b> – A <b>Terraria mod</b> written in C#, designed to emulate and integrate mechanics and items inspired by the Borderlands series. It utilizes OOP principles and dependency injection to create a modular and clean system that also allows for cross-mod compatibility. Additionally, I practiced Agile iterations by iteratively translating community feedback into technical requirements that needed to be added.</li>
+  <li><b>Food Files</b> – A <b>cross-platform</b> mobile application written in <b>Flutter</b> that integrates <b>Mapbox API</b> for geospatial features. For HTTP calls and data persistence, <b>ASP.NET Core</b> and <b>PostgreSQL</b> have been architected as the backend.</li>
 </ul>
 
 ---

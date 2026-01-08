@@ -12,9 +12,8 @@ I'm <b>Juan Joboy</b>, a passionate Software Engineering student at <b>Curtin Un
 
 <p align="left">
 - 🔧 Currently working as an <b>IT Support Officer</b> at Curtin University<br>
-- 🎮 I love developing <b>video games</b> and <b>game mods</b> in my spare time<br>
-- 📘 Currently Learning: SQL, Kotlin, C# & Unity<br>
-- 💡 Always experimenting with unique and creative game mechanics
+- 🎮 I love developing <b>games</b>, <b>mods</b> and apps in my spare time<br>
+- 📘 Currently Learning: SQL, Flutter, C# & Unity<br>
 </p>
 
 ---
@@ -24,8 +23,8 @@ I'm <b>Juan Joboy</b>, a passionate Software Engineering student at <b>Curtin Un
 <p align="left">Here are some of the projects I'm passionate about:</p>
 
 <ul align="left">
-  <li><b>🌲 Vaultaria</b> – A <b>Terraria mod</b> written in C#, designed to emulate and integrate mechanics and items inspired by the Borderlands series.</li>
-  <li><b>🧩 Labyrinth</b> – A <b>terminal-based game</b> in C, that's going to be reborn in Unity, with C#.</li>
+  <li><b>Vaultaria</b> – A <b>Terraria mod</b> written in C#, designed to emulate and integrate mechanics and items inspired by the Borderlands series.</li>
+  <li><b>Food Files</b> – A <b>cross-platform mobile app</b> built with Flutter that enables users to catalog and post meals with images and custom descriptions</li>
 </ul>
 
 ---
@@ -35,6 +34,8 @@ I'm <b>Juan Joboy</b>, a passionate Software Engineering student at <b>Curtin Un
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" alt="Java" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" height="40" alt="Flutter" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" alt="C#" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" height="40" alt="Unity" />
@@ -43,7 +44,6 @@ I'm <b>Juan Joboy</b>, a passionate Software Engineering student at <b>Curtin Un
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="SQL" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin" />
 </div>
 
 ---
@@ -51,7 +51,7 @@ I'm <b>Juan Joboy</b>, a passionate Software Engineering student at <b>Curtin Un
 <h2 align="left">🌐 Connect with Me</h2>
 
 <p align="left">
-If you're into game development or just want to chat, feel free to connect!
+If you want to chat about anything, feel free to connect!
 </p>
 
 <div align="left">
